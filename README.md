@@ -4,7 +4,7 @@ A full-stack todo application built with React, Fastify, MongoDB, and Docker.
 
 # Method
 
-I transcribed the app code from the [Modern React CRUD App Project (React ToDo app)](https://www.youtube.com/watch?v=7u2Rv4HfCYQ) video.
+I typed out the app code from the [Modern React CRUD App Project (React ToDo app)](https://www.youtube.com/watch?v=7u2Rv4HfCYQ) video.
 
 Subsequently, I built the backend, connected it to MongoDB, and containerized the app by working with Claude AI. The video only covered the frontend part.
 
