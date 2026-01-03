@@ -1,4 +1,4 @@
-# What Is In This Repo?
+# What is in this repository?
 
 A full-stack todo application built with React, Fastify, MongoDB, and Docker.
 
