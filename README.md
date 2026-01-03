@@ -60,6 +60,7 @@ Open your browser and visit:
 ```
 http://localhost
 ```
+- do not use 127.0.0.1 instead of http://localhost
 
 **Backend API:** http://localhost:3000/api/todos  
 **Health check:** http://localhost:3000/health
