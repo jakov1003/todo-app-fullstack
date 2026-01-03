@@ -8,7 +8,7 @@ I transcribed the app code from the [Modern React CRUD App Project (React ToDo a
 
 Subsequently, I built the backend, connected it to MongoDB, and containerized the app by working with Claude AI. The video only covered the frontend part.
 
-I am not a programmer, nor am I aiming to become one. This project was a test of my technical abilities and problem-solving skills (since transcription can breed errors), with the ultimate goal of learning how a React frontend and Fastify backend integrate with MongoDB.
+I am not a programmer, nor am I aiming to become one. This project was a test of my technical abilities and problem-solving skills with the ultimate goal of learning how a React frontend and Fastify backend integrate with MongoDB.
 
 I had zero prior React or Fastify experience with minimal knowledge of non-relational databases and Docker.
 
