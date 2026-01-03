@@ -38,6 +38,7 @@ I had zero prior React or Fastify experience with minimal knowledge of non-relat
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Git](https://git-scm.com/downloads)
+- **Optional:** [MongoDB Compass](https://www.mongodb.com/products/tools/compass) - GUI for viewing and managing your MongoDB database
 
 ## How To Start the Application
 
