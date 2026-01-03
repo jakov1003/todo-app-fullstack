@@ -111,7 +111,7 @@ The application uses these environment variables (configured in `docker-compose.
 
 **Access MongoDB:**
 
-MongoDB Compass connection string:
+MongoDB (Compass) connection string:
 ```
 mongodb://localhost:27018/todo-app
 ```
