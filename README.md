@@ -49,6 +49,7 @@ cd todo-app-fullstack
 ```
 
 ### 2. Run the Docker containers
+**- do not forget to start the Docker Desktop app before executing the command below**
 ```bash
 docker-compose up --build
 ```
